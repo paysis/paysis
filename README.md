@@ -6,11 +6,13 @@ Software Engineer Student
 
 I've been learning to code for 8 years. I've started with Visual Basic and then continued with C# .Net. For my "little experiments", I've continued to work on other languages like Python, C/C++, Javascript, Typescript, Java, PHP and so on. Generally speaking, I've mostly worked with backend technologies but I also have worked with frontend technologies for the satisfaction of my desire of gaining knowledge. Now, I'm curious about Deep Learning technology and thus I'm currently making progress to become proficient in it.
 
-*   🌍  I'm based in Istanbul/Turkey
-*   ✉️  You can contact me at [paysis21@gmail.com](mailto:paysis21@gmail.com)
-*   🧠  I'm learning deep learning and data science
-*   🤝  I'm open to collaborating on all sorts of interesting and educative projects
-*   ⚡  Well, the future is scary...### Skills 
+*   🌍  I'm based in Istanbul/Turkey
+*   ✉️  You can contact me at [paysis21@gmail.com](mailto:paysis21@gmail.com)
+*   🧠  I'm learning deep learning and data science
+*   🤝  I'm open to collaborating on all sorts of interesting and educative projects
+*   ⚡  Well, the future is scary...
+
+### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -45,18 +47,22 @@ I've been learning to code for 8 years. I've started with Visual Basic and then 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-                  ### Socials
+
+### Socials
                   
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/paysis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/phys1s" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/@paysis21" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/paysis"><img src="https://github-readme-stats.vercel.app/api?username=paysis&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="paysis's GitHub stats" /></a><a
-                      href="http://www.github.com/paysis"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=paysis&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/paysis"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=paysis&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/paysis" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paysis&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<a
-                  href="https://www.buymeacoffee.com/paysis21G"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<p align="left"> <a href="https://www.github.com/paysis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/phys1s" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@paysis21" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/paysis"><img src="https://github-readme-stats.vercel.app/api?username=paysis&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="paysis's GitHub stats" /></a>
+
+<a href="http://www.github.com/paysis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paysis&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/paysis"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=paysis&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/paysis" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paysis&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+<a href="https://www.buymeacoffee.com/paysis21G"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
